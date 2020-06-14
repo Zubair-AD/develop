@@ -35,7 +35,7 @@
     "EventEmitter": "^1.0.0",
     "bootstrap": "^4.5.0",
     "http-module": "0.0.5",
-    "jquery": "^1.9.1",
+    "jquery": "^3.5.0",
     "rxjs": "~6.5.4",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
